@@ -12,13 +12,4 @@ Användarroller: Olika behörighetsnivåer för administratörer, personal och k
 
 Responsiv Design: Fullt optimerad för både desktop och mobila enheter.
 
-🛠 Teknisk Stack
-Projektet är byggt med följande teknologier:
 
-Frontend: HTML5, CSS3 och JavaScript (ES6+).
-
-Backend: Node.js med Express.
-
-Databas: MySQL / MongoDB (justera beroende på din exakta setup).
-
-Styling: Bootstrap eller skräddarsydd CSS.
